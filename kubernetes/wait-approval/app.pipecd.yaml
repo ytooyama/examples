@@ -15,7 +15,7 @@ spec:
       - name: WAIT_APPROVAL
         with:
           approvers:
-            - nghialv
+            - hello-pipecd
       - name: K8S_PRIMARY_ROLLOUT
       - name: K8S_CANARY_CLEAN
   notification:
